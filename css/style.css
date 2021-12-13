@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+.container{
+    width: 50%;
+    margin-top: 200px;
+}
+
+.container .title{
+    margin-left: -80px;
+    margin-bottom: 50px;
+}
+
+.container h1{
+    color: tomato;
+    text-align: center;
+}
+
+#boxcat{
+    width: 300px;
+    height: 300px;
+    border: 3px solid tomato;
+}
+
+#boxdog{
+    width: 300px;
+    height: 300px;
+    border: 3px solid tomato;
+}
+
+#btncat{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+#btndog{
+    margin-left: 80px;
+    margin-top: 50px;
+}
